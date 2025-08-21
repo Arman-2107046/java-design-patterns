@@ -1,11 +1,9 @@
 public class Calculator {
 
-
     
 public int add(int a, int b) {
-    return a + b + 1; // change for conflict
+    return a + b; // simulate conflict
 }
-
 
 
     public int subtract(int a, int b) { return a - b; }
